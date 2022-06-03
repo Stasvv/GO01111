@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("это должно быть в мастере")
+	fmt.Println("коммит для Lesson01")
 
 }
